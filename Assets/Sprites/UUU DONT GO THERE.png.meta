@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 898197c7fc4907b4c9e1be74a870e30a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1653717123715542807
+    second: UUU DONT GO THERE_0
+  - first:
+      213: 3945907728173035996
+    second: UUU DONT GO THERE_1
+  - first:
+      213: 1331963649376722273
+    second: UUU DONT GO THERE_2
+  - first:
+      213: -8003752552437529353
+    second: UUU DONT GO THERE_3
+  - first:
+      213: -520608027542773196
+    second: UUU DONT GO THERE_4
+  - first:
+      213: -2728461739067810520
+    second: UUU DONT GO THERE_5
+  - first:
+      213: -1111643745007670871
+    second: UUU DONT GO THERE_6
+  - first:
+      213: 6978626373583830908
+    second: UUU DONT GO THERE_7
+  - first:
+      213: 2292177903242118030
+    second: UUU DONT GO THERE_8
+  - first:
+      213: -6863119684852861395
+    second: UUU DONT GO THERE_9
+  - first:
+      213: -526459310702071060
+    second: UUU DONT GO THERE_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UUU DONT GO THERE
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1f8362c2ea2c630800000000000000
+      internalID: 3945907728173035996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4afcad13171f26e429ad72776be8fa76
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UUU DONT GO THERE: 3945907728173035996
+      UUU DONT GO THERE_0: -1653717123715542807
+      UUU DONT GO THERE_10: -526459310702071060
+      UUU DONT GO THERE_2: 1331963649376722273
+      UUU DONT GO THERE_3: -8003752552437529353
+      UUU DONT GO THERE_4: -520608027542773196
+      UUU DONT GO THERE_5: -2728461739067810520
+      UUU DONT GO THERE_6: -1111643745007670871
+      UUU DONT GO THERE_7: 6978626373583830908
+      UUU DONT GO THERE_8: 2292177903242118030
+      UUU DONT GO THERE_9: -6863119684852861395
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
