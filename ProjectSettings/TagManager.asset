@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Border
   - Enemy
+  - WinThing
+  - Secret
+  - Secret2
   layers:
   - Default
   - TransparentFX

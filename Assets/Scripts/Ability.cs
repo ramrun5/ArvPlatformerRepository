@@ -1,19 +1,24 @@
 using UnityEngine;
-
+using UnityEngine.UI;
 public class Ability : AbilitySelectionButtons
 {
+    
     public Rigidbody2D rb;
 
-    void Start()
+    public void Update()
     {
-        
+        abilityText.text = abilityName;
     }
 
-   public void TriggerAbility()
+    public void TriggerAbility()
     {
         if (DAS)
         {
-            rb.linearVelocity = new Vector3(0, -5, -10);
+            rb.linearVelocity = new Vector3(0, -15, 0); 
+        }
+        if (LAS)
+        {
+            rb.linearVelocity = new Vector3(0, 15, 0);
         }
     }
 }

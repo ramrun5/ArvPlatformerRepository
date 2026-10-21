@@ -1,16 +1,15 @@
 using UnityEngine;
-
+using UnityEngine.UI;
 
 
 public class AbilitySelectionButtons : MonoBehaviour
 {
     public string abilityName;
+    public Text abilityText;
     public GameObject DiveAbility;
     public bool DAS = false;
-    public GameObject JumpBoostAbility;
-    public bool JBAS = false;
-    public GameObject SpeedAbility;
-    public bool SAS = false;
+    public GameObject LeapAbility;
+    public bool LAS = false;
     public GameObject AbilitySelector;
 
     public void SelectAbility1()
@@ -23,17 +22,11 @@ public class AbilitySelectionButtons : MonoBehaviour
 
     public void SelectAbility2()
     {
-        JBAS = true;
-        abilityName = "Jump Boost";
-        JumpBoostAbility.SetActive(true);
+        LAS = true;
+        abilityName = "Leap";
+        LeapAbility.SetActive(true);
         AbilitySelector.SetActive(false);
     }
 
-    public void SelectAbility3()
-    {
-        SAS = true;
-        abilityName = "Speed";
-        SpeedAbility.SetActive(true);
-        AbilitySelector.SetActive(false);
-    }
+    
 }
